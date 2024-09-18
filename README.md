@@ -13,10 +13,17 @@ The wave control table seen in the image is used to control the zombie waves. On
 
 The controls of the game:
 WASD - movement
+
 Left click - Fire weapon / Purchase weapon in shop
+
 Right click - Sell weapon in the shop
+
 R - reload weapon
+
 E - access shop / activate waves
+
 1 - Fists
+
 2 - 1st weapon
+
 3 - 2nd weapon
